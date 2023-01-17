@@ -1,6 +1,6 @@
 #ToDo List ✅
 
-Projeto desenvolvido em React Native contemplando o funcinamento de um app de tarefas. 
+Projeto desenvolvido em React Native contemplando o funcionamento de um app de tarefas. 
 É possível incluir novas tasks inserindo o título da mesma e clicando no botão de confirmar, a partir daí, é possível visualizar sua tarefa na lista que fica no meio da tela.
 
 Caso a tarefa seja concluída basta pressionar a bolinha da esquerda, tornando assim a tarefa como completa, mudando sua cor e ícone. 
