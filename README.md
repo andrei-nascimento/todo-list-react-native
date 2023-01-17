@@ -7,5 +7,4 @@ Caso a tarefa seja concluída basta pressionar a bolinha da esquerda, tornando a
 Para exluir alguma tarefa basta clicar no ícone de lixeira no canto direito.
 A lista reposicionará a última tarefa adicionada diretamente para o início.
 
-![todo0](https://user-images.githubusercontent.com/76922943/212998468-fe1c8611-c58a-4092-af54-60ba1abc82e3.jpg)
-![todo1](https://user-images.githubusercontent.com/76922943/212998482-a0679ec9-3652-47ff-b131-eb51ce173c0c.jpg)
+![todo](https://user-images.githubusercontent.com/76922943/213001927-d1ec7b3a-28cb-4003-93e0-036b7e19d438.png)
