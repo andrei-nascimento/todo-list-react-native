@@ -4,7 +4,7 @@ import React from 'react'
 export default function Empty() {
     return (
         <View>
-            <Text style={styles.title}>Lista de tarefas vazia!</Text>
+            <Text style={styles.title}>Lista de tarefas vazia...</Text>
         </View>
     );
 }

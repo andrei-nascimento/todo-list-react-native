@@ -37,22 +37,24 @@ const styles = StyleSheet.create({
         width: 240,
         color: 'white',
         borderWidth: 1,
-        borderColor: '#fff',
+        borderColor: '#dddd',
+        borderRadius: 5,
         paddingVertical: 8,
         paddingHorizontal: 16,
-        fontSize: 16
+        fontSize: 18
     },
     button: {
+        backgroundColor: 'green',
         borderWidth: 1,
-        borderColor: '#bbb',
         borderRadius: 5,
         paddingVertical: 12,
-        marginTop: 24
+        marginTop: 24,
+        borderColor: 'green'
     },
     buttonText: {
         color: 'white',
         textAlign: 'center',
-        fontSize: 18,
-        fontWeight: 'bold'
+        fontSize: 20,
+        fontWeight: 'bold',
     }
 }) 

@@ -1,10 +1,17 @@
 {
   "expo": {
-    "name": "todo-list-rn",
+    "name": "ToDo List",
     "slug": "todo-list-rn",
+    "privacy": "public",
+    "description": "Add, track and delete your tasks easily",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e14e2b89-4292-45f4-8e0d-143878828d9b"
+      }
+    }
   }
 }

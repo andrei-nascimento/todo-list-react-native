@@ -12,7 +12,7 @@ export default function Task({ item, deleteItem }) {
         <View 
             style={[
                 styles.taskContainer, 
-                {backgroundColor: check === false ? "#2b4a7d" : "green"}
+                {backgroundColor: check === false ? "#165ca1" : "green"}
             ]}
         >
             {
@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
         height: 24
     },
     trashImage: {
-        width: 22,
-        height: 22
+        width: 18,
+        height: 18
     }
 });

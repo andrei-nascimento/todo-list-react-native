@@ -4,7 +4,7 @@ import React from 'react'
 export default function Header() {
     return (
         <View>
-            <Text style={styles.title}>Easy ToDo</Text>
+            <Text style={styles.title}>ToDo List</Text>
         </View>
     );
 }
