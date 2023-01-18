@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ToDo List",
-    "slug": "todo-list-rn",
+    "slug": "todo-list",
     "privacy": "public",
     "description": "Add, track and delete your tasks easily",
     "version": "1.0.0",
